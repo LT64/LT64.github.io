@@ -1,0 +1,76 @@
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: normal;
+	font-size: 60px;
+	color: #e65c00;
+	font-family: muli;
+	border-style: dotted;
+}
+
+h2 {
+	text-align: center;
+	letter-spacing: 1px;
+	font-weight: normal;
+	font-size: 40px;
+	color:  #33334d;
+	font-family: roboto;
+	border: 1px;
+	padding: 40x;
+	margin: 30px 20px 30px 20px;
+}
+
+body {
+	font-family: "Roboto";
+	font-weight: bold;
+	font-size: 30px;
+	color:  #33334d;
+	}
+
+div {
+    text-align: center;
+}
+
+body {background-color: #e6fff2;}
+
+.fish {
+	color: #ffa366;
+	font-weight: bold;
+}
+
+
+.mammals {
+	color:#ffa366;
+	font-weight: bold;
+}
+
+.birds {
+	color: #ffa366;
+	font-weight: bold;
+	
+}
+
+li {
+	background-color: white;
+	padding: 30px;
+	font-size: 30px;
+	width: 15%;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+li:hover {
+	opacity: 0.5;
+}
+
+ul {
+	display: flex;
+	list-style: none;
+	justify-content: space-around;
+}
+
+
+
